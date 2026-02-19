@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0229-majority-element-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
