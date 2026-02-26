@@ -118,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
