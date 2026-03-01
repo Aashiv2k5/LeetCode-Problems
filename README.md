@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0326-power-of-three) |
+| [0754-reach-a-number](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0754-reach-a-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0754-reach-a-number](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0754-reach-a-number) |
 ## Brainteaser
 |  |
 | ------- |
