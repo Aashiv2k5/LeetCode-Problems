@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0279-perfect-squares](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0754-reach-a-number](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0754-reach-a-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0832-flipping-an-image](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Breadth-First Search
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
