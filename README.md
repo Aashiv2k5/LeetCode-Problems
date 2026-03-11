@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0832-flipping-an-image](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1652-defuse-the-bomb](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Sorting
 |  |
