@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3663-find-the-least-frequent-digit](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0771-jewels-and-stones](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3663-find-the-least-frequent-digit](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3663-find-the-least-frequent-digit](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3663-find-the-least-frequent-digit](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 ## Dynamic Programming
 |  |
 | ------- |
