@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3663-find-the-least-frequent-digit](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 ## Sorting
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Bucket Sort
 |  |
 | ------- |
