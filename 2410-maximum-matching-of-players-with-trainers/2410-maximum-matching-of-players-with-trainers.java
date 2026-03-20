@@ -17,7 +17,7 @@ class Solution {
         }
        }return ans;
     }
-    
+
     static {
         Runtime.getRuntime().addShutdownHook(new Thread(() -> {
             try (FileWriter writer = new FileWriter("display_runtime.txt")) {
@@ -27,4 +27,6 @@ class Solution {
             }
         }));
     }
+    
+ 
 }
