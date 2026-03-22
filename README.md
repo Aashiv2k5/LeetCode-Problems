@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0754-reach-a-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3663-find-the-least-frequent-digit](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/3663-find-the-least-frequent-digit) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Simulation
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Array
 |  |
 | ------- |
