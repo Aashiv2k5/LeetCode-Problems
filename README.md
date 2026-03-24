@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0605-can-place-flowers) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0322-coin-change) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1227-airplane-seat-assignment-probability) |
 ## Greedy
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0322-coin-change) |
 ## Linked List
 |  |
 | ------- |
