@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0665-non-decreasing-array) |
 | [0832-flipping-an-image](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0832-flipping-an-image) |
+| [0941-valid-mountain-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0941-valid-mountain-array) |
 | [0948-bag-of-tokens](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0948-bag-of-tokens) |
 | [1207-unique-number-of-occurrences](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
