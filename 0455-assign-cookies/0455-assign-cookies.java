@@ -1,29 +1,21 @@
 class Solution {
     public int findContentChildren(int[] g, int[] s) {
-        int ans=0;
         Arrays.sort(g);
         Arrays.sort(s);
-        int greed=0;
-        int cookie=0;
-        while(greed<g.length && cookie<s.length){
-        if(g[greed]<=s[cookie]){
-        ans++;
-        greed++;
-        cookie++;
-        }
-        else if(g[greed]>s[cookie]){
-            cookie++;
-        }
+        int i=g.length-1;
+        int j=s.length-1;
+        int ans=0;
+        while(i>=0 && j>=0){
+           if(g[i]>s[j]){
+            i--;
+           }
+           else if(g[i]<=s[j]){
+            ans++;
+            i--;
+            j--;
+           }
+
         }
         return ans;
-        
-    }
-    static {
-        Runtime.getRuntime().addShutdownHook(new Thread(() -> {
-            try (java.io.FileWriter fw = new java.io.FileWriter("display_runtime.txt")) {
-                fw.write("2");
-            } catch (Exception e) {
-            }
-        }));
     }
 }
