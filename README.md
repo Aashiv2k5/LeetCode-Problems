@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1652-defuse-the-bomb) |
+| [1710-maximum-units-on-a-truck](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-bag-of-tokens](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0948-bag-of-tokens) |
+| [1710-maximum-units-on-a-truck](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Counting
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0948-bag-of-tokens) |
+| [1710-maximum-units-on-a-truck](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/2600-k-items-with-the-maximum-sum) |
