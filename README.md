@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0279-perfect-squares](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0279-perfect-squares) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 ## Tree
