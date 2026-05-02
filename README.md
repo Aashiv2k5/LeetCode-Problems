@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0771-jewels-and-stones](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0070-climbing-stairs) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
