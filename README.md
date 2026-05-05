@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0165-compare-version-numbers) |
