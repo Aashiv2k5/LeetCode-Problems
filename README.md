@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0686-repeated-string-match](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -285,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
