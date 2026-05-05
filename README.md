@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0455-assign-cookies) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0754-reach-a-number](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0754-reach-a-number) |
 ## Brainteaser
 |  |
