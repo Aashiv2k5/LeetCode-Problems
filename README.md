@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0322-coin-change) |
@@ -290,16 +291,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Aashiv2k5/LeetCode-Problems/tree/master/0112-path-sum) |
 ## Number Theory
 |  |
